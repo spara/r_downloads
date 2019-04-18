@@ -1,0 +1,8002 @@
+[
+  {
+    "download_count": "10958483",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "1045572",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "1024095",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "1015256",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "945576",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "928825",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "915962",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "911510",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "890616",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "856249",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "849898",
+    "package": "pillar",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "828363",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "822420",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "816921",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "813972",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "775052",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "764460",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "758743",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "748250",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "738480",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "734250",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "732555",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "727195",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "715498",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "691897",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "691634",
+    "package": "cli",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "681551",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "681403",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "674070",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "672823",
+    "package": "ggplot2",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "653595",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "653413",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "647808",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "647498",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "647113",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "640892",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "612676",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "605599",
+    "package": "fansi",
+    "package_version": "0.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "605310",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "602691",
+    "package": "R6",
+    "package_version": "2.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "599689",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "599619",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "584874",
+    "package": "digest",
+    "package_version": "0.6.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "549723",
+    "package": "rlang",
+    "package_version": "0.3.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "547060",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "545479",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "539384",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "525463",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "519518",
+    "package": "readxl",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "511367",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "497318",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "494300",
+    "package": "WGCNA",
+    "package_version": "1.66",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "487565",
+    "package": "mime",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "475452",
+    "package": "rmarkdown",
+    "package_version": "1.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "473499",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "467053",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "466133",
+    "package": "dplyr",
+    "package_version": "0.7.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "463752",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "462262",
+    "package": "sourcetools",
+    "package_version": "0.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "460856",
+    "package": "zoo",
+    "package_version": "1.8-4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "460417",
+    "package": "xtable",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "453704",
+    "package": "rlang",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "450797",
+    "package": "Rcpp",
+    "package_version": "0.12.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "442148",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "437669",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "433756",
+    "package": "tidyselect",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "428297",
+    "package": "htmlwidgets",
+    "package_version": "1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "427708",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "425977",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "425592",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "424868",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "423320",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "421665",
+    "package": "DBI",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "420587",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "418771",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "412811",
+    "package": "httpuv",
+    "package_version": "1.4.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "412434",
+    "package": "clipr",
+    "package_version": "0.4.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "410514",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "410093",
+    "package": "dplyr",
+    "package_version": "0.7.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "408330",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "408283",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "404831",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "401483",
+    "package": "evaluate",
+    "package_version": "0.12",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "397015",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "395655",
+    "package": "data.table",
+    "package_version": "1.11.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "390354",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "389163",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "385153",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "384343",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "383419",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "383241",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "382201",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "381222",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "381118",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "380637",
+    "package": "later",
+    "package_version": "0.7.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "374667",
+    "package": "rlang",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "373327",
+    "package": "sp",
+    "package_version": "1.3-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "368248",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "366715",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "365743",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "364345",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "356263",
+    "package": "openssl",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "355798",
+    "package": "car",
+    "package_version": "3.0-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "354511",
+    "package": "caTools",
+    "package_version": "1.17.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "353181",
+    "package": "R6",
+    "package_version": "2.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "352432",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "352179",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "351990",
+    "package": "Rcpp",
+    "package_version": "0.12.19",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "351495",
+    "package": "fs",
+    "package_version": "1.2.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "351219",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "350917",
+    "package": "memoise",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "349696",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "349040",
+    "package": "prettyunits",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "348731",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "348098",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "347576",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "342125",
+    "package": "cli",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "340124",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "338301",
+    "package": "dbplyr",
+    "package_version": "1.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "337842",
+    "package": "viridis",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "336505",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "332034",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "331067",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "329995",
+    "package": "rJava",
+    "package_version": "0.9-10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "329869",
+    "package": "rvest",
+    "package_version": "0.3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "324941",
+    "package": "callr",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "324932",
+    "package": "mime",
+    "package_version": "0.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "323568",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "323012",
+    "package": "processx",
+    "package_version": "3.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "321797",
+    "package": "devtools",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "318583",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "317253",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "316042",
+    "package": "cli",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "314454",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "314256",
+    "package": "fansi",
+    "package_version": "0.4.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "312987",
+    "package": "digest",
+    "package_version": "0.6.15",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "312561",
+    "package": "haven",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "312358",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "312109",
+    "package": "tidyselect",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "311055",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "310338",
+    "package": "xfun",
+    "package_version": "0.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "309653",
+    "package": "pillar",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "309023",
+    "package": "R6",
+    "package_version": "2.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "308769",
+    "package": "stringi",
+    "package_version": "1.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "308718",
+    "package": "shiny",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "308487",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "308422",
+    "package": "digest",
+    "package_version": "0.6.18",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "308107",
+    "package": "rstudioapi",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "308088",
+    "package": "broom",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "307254",
+    "package": "shiny",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "306314",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "305980",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "305822",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "305599",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "305590",
+    "package": "ggplot2",
+    "package_version": "2.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "305437",
+    "package": "cli",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "303933",
+    "package": "tidyr",
+    "package_version": "0.8.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "303570",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "303040",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "302371",
+    "package": "abind",
+    "package_version": "1.4-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "302085",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "301147",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "301007",
+    "package": "Rcpp",
+    "package_version": "0.12.17",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "297993",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "297043",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "294443",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "293738",
+    "package": "tidyr",
+    "package_version": "0.8.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "293586",
+    "package": "glue",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "293263",
+    "package": "git2r",
+    "package_version": "0.23.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "292936",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "292864",
+    "package": "selectr",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "291777",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "290178",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "289490",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "287956",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "287405",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "286552",
+    "package": "data.table",
+    "package_version": "1.12.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "285627",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "283523",
+    "package": "fansi",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "282436",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "281550",
+    "package": "lmtest",
+    "package_version": "0.9-36",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "281167",
+    "package": "evaluate",
+    "package_version": "0.11",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "280134",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "279780",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "279147",
+    "package": "R6",
+    "package_version": "2.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "279021",
+    "package": "openxlsx",
+    "package_version": "4.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "278430",
+    "package": "cli",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "278302",
+    "package": "httr",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "278002",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "277969",
+    "package": "pbkrtest",
+    "package_version": "0.4-7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "276559",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "275329",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "272641",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "271455",
+    "package": "devtools",
+    "package_version": "1.13.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "270500",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "270423",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "270353",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "270097",
+    "package": "mvtnorm",
+    "package_version": "1.0-8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "268857",
+    "package": "fansi",
+    "package_version": "0.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "266057",
+    "package": "Formula",
+    "package_version": "1.2-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "265198",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "263935",
+    "package": "tibble",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "263844",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "263297",
+    "package": "mime",
+    "package_version": "0.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "263256",
+    "package": "zip",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "263202",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "262873",
+    "package": "minqa",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "262408",
+    "package": "iterators",
+    "package_version": "1.0.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "261339",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "261274",
+    "package": "quantmod",
+    "package_version": "0.4-13",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "261028",
+    "package": "modelr",
+    "package_version": "0.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "260808",
+    "package": "cli",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "260708",
+    "package": "archdata",
+    "package_version": "1.1",
+    "r_arch": "NA",
+    "r_os": "NA",
+    "r_version": "NA"
+  },
+  {
+    "download_count": "260296",
+    "package": "digest",
+    "package_version": "0.6.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "260117",
+    "package": "RCurl",
+    "package_version": "1.95-4.11",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "259599",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "258775",
+    "package": "SparseM",
+    "package_version": "1.77",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "258391",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "257945",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "257945",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "257280",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "256360",
+    "package": "WGCNA",
+    "package_version": "1.66",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "256082",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "256039",
+    "package": "ggplot2",
+    "package_version": "2.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "255171",
+    "package": "curl",
+    "package_version": "3.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "254730",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "253613",
+    "package": "scales",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "253239",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "252581",
+    "package": "crosstalk",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "252491",
+    "package": "rlang",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "252137",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "251801",
+    "package": "xfun",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "251554",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "251169",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "249928",
+    "package": "mime",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "249262",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "249083",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "247592",
+    "package": "MatrixModels",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "247078",
+    "package": "Hmisc",
+    "package_version": "4.1-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "245396",
+    "package": "dplyr",
+    "package_version": "0.7.8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "245211",
+    "package": "dplyr",
+    "package_version": "0.7.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "245017",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "244175",
+    "package": "R6",
+    "package_version": "2.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "243673",
+    "package": "readxl",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "243630",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "243312",
+    "package": "tidyselect",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "243243",
+    "package": "latticeExtra",
+    "package_version": "0.6-28",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "242789",
+    "package": "jsonlite",
+    "package_version": "1.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "241138",
+    "package": "gtools",
+    "package_version": "3.8.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "240580",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "240530",
+    "package": "digest",
+    "package_version": "0.6.15",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "239326",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "239233",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "238285",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "237064",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "236504",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "236445",
+    "package": "foreach",
+    "package_version": "1.4.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "235501",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "235471",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "235039",
+    "package": "rlang",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "234921",
+    "package": "dismo",
+    "package_version": "1.1-4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "234758",
+    "package": "glue",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "234371",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "234153",
+    "package": "devtools",
+    "package_version": "1.13.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "233852",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "233592",
+    "package": "sourcetools",
+    "package_version": "0.1.7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "233429",
+    "package": "knitr",
+    "package_version": "1.21",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "232835",
+    "package": "pkgconfig",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "232740",
+    "package": "quantreg",
+    "package_version": "5.36",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "232724",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "232696",
+    "package": "tinytex",
+    "package_version": "0.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "232277",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "232270",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "231993",
+    "package": "Rcpp",
+    "package_version": "0.12.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "231435",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "231211",
+    "package": "e1071",
+    "package_version": "1.7-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "230839",
+    "package": "htmlwidgets",
+    "package_version": "1.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "229874",
+    "package": "zoo",
+    "package_version": "1.8-4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "229821",
+    "package": "tidyselect",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "229808",
+    "package": "BH",
+    "package_version": "1.69.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "228992",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "228684",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "228440",
+    "package": "RcppEigen",
+    "package_version": "0.3.3.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "227596",
+    "package": "usethis",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "226714",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "225733",
+    "package": "nloptr",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "225311",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "224720",
+    "package": "igraph",
+    "package_version": "1.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "224569",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "224557",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "224497",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "222592",
+    "package": "xtable",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "222142",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "221327",
+    "package": "pkgbuild",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "221291",
+    "package": "gh",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "220887",
+    "package": "desc",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "220701",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "220567",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "220479",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "220405",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "219482",
+    "package": "pillar",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "218504",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "217561",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "216908",
+    "package": "reprex",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "216627",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "215895",
+    "package": "checkmate",
+    "package_version": "1.8.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "214592",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "214083",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "213717",
+    "package": "rlang",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "213564",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "212853",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "212258",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "211596",
+    "package": "acepack",
+    "package_version": "1.4.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "211389",
+    "package": "numDeriv",
+    "package_version": "2016.8-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "211090",
+    "package": "XML",
+    "package_version": "3.98-1.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "210656",
+    "package": "openssl",
+    "package_version": "1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "210444",
+    "package": "rlang",
+    "package_version": "0.3.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "210226",
+    "package": "pillar",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "209834",
+    "package": "maptools",
+    "package_version": "0.9-4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "209085",
+    "package": "markdown",
+    "package_version": "0.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "208979",
+    "package": "mime",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "208445",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "208232",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "208211",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "207582",
+    "package": "htmlTable",
+    "package_version": "1.12",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "207474",
+    "package": "stringr",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "207445",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "207050",
+    "package": "qdap",
+    "package_version": "2.2.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "206135",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "205502",
+    "package": "htmlwidgets",
+    "package_version": "1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "205010",
+    "package": "yaml",
+    "package_version": "2.1.19",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "204773",
+    "package": "dichromat",
+    "package_version": "2.0-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "204039",
+    "package": "forecast",
+    "package_version": "8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "203999",
+    "package": "shiny",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "203800",
+    "package": "prettyunits",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "203111",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "202867",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "202063",
+    "package": "data.table",
+    "package_version": "1.11.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "201421",
+    "package": "lme4",
+    "package_version": "1.1-18-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "201324",
+    "package": "gdata",
+    "package_version": "2.18.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "201270",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "200778",
+    "package": "ggplot2",
+    "package_version": "2.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "200734",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "200222",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "199546",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "199525",
+    "package": "praise",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "199166",
+    "package": "tidyselect",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "199111",
+    "package": "pillar",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "199075",
+    "package": "Rcpp",
+    "package_version": "0.12.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "198950",
+    "package": "sandwich",
+    "package_version": "2.5-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "198929",
+    "package": "cli",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "198925",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "198726",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "198515",
+    "package": "mime",
+    "package_version": "0.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "198314",
+    "package": "quadprog",
+    "package_version": "1.5-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "198257",
+    "package": "xlsx",
+    "package_version": "0.6.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "197961",
+    "package": "R6",
+    "package_version": "2.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "197690",
+    "package": "WGCNA",
+    "package_version": "1.66",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "196938",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "196722",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "195922",
+    "package": "timeDate",
+    "package_version": "3043.102",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "195580",
+    "package": "shiny",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "195547",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "195453",
+    "package": "scales",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "195291",
+    "package": "digest",
+    "package_version": "0.6.17",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "195214",
+    "package": "devtools",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "195066",
+    "package": "utf8",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "194121",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "193937",
+    "package": "httpuv",
+    "package_version": "1.4.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "193763",
+    "package": "ini",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "193483",
+    "package": "devtools",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "193332",
+    "package": "rlang",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "193115",
+    "package": "clisymbols",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "192839",
+    "package": "prettyunits",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "192304",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "192295",
+    "package": "rstudioapi",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "192085",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "191540",
+    "package": "pillar",
+    "package_version": "1.2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "191177",
+    "package": "DBI",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "191002",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "190965",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "190846",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "190820",
+    "package": "jsonlite",
+    "package_version": "1.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "190786",
+    "package": "digest",
+    "package_version": "0.6.15",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "190728",
+    "package": "xopen",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "190634",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "190443",
+    "package": "evaluate",
+    "package_version": "0.12",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "188878",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "188751",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "188745",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "188637",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "188556",
+    "package": "httr",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "188538",
+    "package": "rlang",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "188210",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "187912",
+    "package": "R6",
+    "package_version": "2.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "187815",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "187571",
+    "package": "httr",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "187483",
+    "package": "clipr",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "187314",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "187298",
+    "package": "pillar",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "187295",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "187197",
+    "package": "DBI",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "187137",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "187025",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "186962",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "186617",
+    "package": "bit",
+    "package_version": "1.1-14",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "185634",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "185366",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "185082",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "184989",
+    "package": "zoo",
+    "package_version": "1.8-4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "184387",
+    "package": "xtable",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "184289",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "184132",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "184130",
+    "package": "rio",
+    "package_version": "0.5.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "184051",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "183997",
+    "package": "ps",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "183987",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "183786",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "183614",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "183473",
+    "package": "glue",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "183284",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "183054",
+    "package": "pkgconfig",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "183020",
+    "package": "readr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "182957",
+    "package": "backports",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "182368",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "182357",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "182326",
+    "package": "evaluate",
+    "package_version": "0.10.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "182285",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "182108",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "181999",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "181710",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "181513",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "181220",
+    "package": "remotes",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "181093",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "180806",
+    "package": "ggrepel",
+    "package_version": "0.8.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "180292",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "179830",
+    "package": "xfun",
+    "package_version": "0.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "179453",
+    "package": "TTR",
+    "package_version": "0.23-4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "179424",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "179273",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "179199",
+    "package": "rmarkdown",
+    "package_version": "1.11",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "178545",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "178233",
+    "package": "pillar",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "178099",
+    "package": "tinytex",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "177926",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "177406",
+    "package": "readxl",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "177060",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "177030",
+    "package": "dplyr",
+    "package_version": "0.7.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "176409",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "176402",
+    "package": "qdap",
+    "package_version": "2.2.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "176258",
+    "package": "openssl",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "176181",
+    "package": "bit64",
+    "package_version": "0.9-7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "175891",
+    "package": "tidyselect",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "175852",
+    "package": "hexbin",
+    "package_version": "1.27.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "175769",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "175537",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "175397",
+    "package": "xts",
+    "package_version": "0.11-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "175210",
+    "package": "plotly",
+    "package_version": "4.8.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "174998",
+    "package": "openssl",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "174973",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "174678",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "174394",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "174293",
+    "package": "sourcetools",
+    "package_version": "0.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "173999",
+    "package": "fs",
+    "package_version": "1.2.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "173841",
+    "package": "progress",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "172983",
+    "package": "caret",
+    "package_version": "6.0-80",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "172840",
+    "package": "knitr",
+    "package_version": "1.21",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "172762",
+    "package": "dplyr",
+    "package_version": "0.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "172716",
+    "package": "callr",
+    "package_version": "3.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "172609",
+    "package": "later",
+    "package_version": "0.7.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "172575",
+    "package": "colorspace",
+    "package_version": "1.4-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "172571",
+    "package": "rstudioapi",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "172366",
+    "package": "tidyr",
+    "package_version": "0.8.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "172077",
+    "package": "jsonlite",
+    "package_version": "1.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "172058",
+    "package": "rjson",
+    "package_version": "0.2.20",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "171901",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "171664",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "171221",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "171094",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "170723",
+    "package": "pkgload",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "170625",
+    "package": "carData",
+    "package_version": "3.0-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "170305",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "170259",
+    "package": "xfun",
+    "package_version": "0.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "170230",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "170054",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "169415",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "168864",
+    "package": "rlang",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "168635",
+    "package": "htmlwidgets",
+    "package_version": "1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "168433",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "168392",
+    "package": "cli",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "168336",
+    "package": "Rcpp",
+    "package_version": "0.12.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "168198",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "167713",
+    "package": "tidyr",
+    "package_version": "0.8.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "167406",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "167340",
+    "package": "ggplot2",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "167171",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "166668",
+    "package": "ps",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "166478",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "166153",
+    "package": "rlang",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "166150",
+    "package": "miniUI",
+    "package_version": "0.1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "166104",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "165865",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "165557",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "165486",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "165097",
+    "package": "markdown",
+    "package_version": "0.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "164870",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "164737",
+    "package": "sourcetools",
+    "package_version": "0.1.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "164594",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "164561",
+    "package": "data.table",
+    "package_version": "1.12.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "164365",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "163904",
+    "package": "knitr",
+    "package_version": "1.21",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "163813",
+    "package": "progress",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "163761",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "163610",
+    "package": "processx",
+    "package_version": "3.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "163532",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "163337",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "163191",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "162725",
+    "package": "htmlwidgets",
+    "package_version": "1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "162654",
+    "package": "viridis",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "162459",
+    "package": "testthat",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "162336",
+    "package": "tidyr",
+    "package_version": "0.8.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "162315",
+    "package": "dichromat",
+    "package_version": "2.0-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "162207",
+    "package": "dplyr",
+    "package_version": "0.7.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "161909",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "161871",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "161785",
+    "package": "stringr",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "161467",
+    "package": "shiny",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "161425",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "161165",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "160867",
+    "package": "rappdirs",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "160380",
+    "package": "maps",
+    "package_version": "3.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "160024",
+    "package": "memoise",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "159846",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "158796",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "158565",
+    "package": "cli",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "157936",
+    "package": "digest",
+    "package_version": "0.6.15",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "157672",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "157534",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "156741",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "156614",
+    "package": "tseries",
+    "package_version": "0.10-45",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "156339",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "156096",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "155902",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "155680",
+    "package": "testthat",
+    "package_version": "2.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "155524",
+    "package": "kernlab",
+    "package_version": "0.9-27",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "155477",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "155366",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "155284",
+    "package": "DEoptimR",
+    "package_version": "1.0-8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "155186",
+    "package": "testthat",
+    "package_version": "2.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "154840",
+    "package": "rvest",
+    "package_version": "0.3.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "154687",
+    "package": "scales",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "154315",
+    "package": "RSQLite",
+    "package_version": "2.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "154141",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "154007",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "153791",
+    "package": "foreign",
+    "package_version": "0.8-71",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "153745",
+    "package": "utf8",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "153608",
+    "package": "sessioninfo",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "152986",
+    "package": "mime",
+    "package_version": "0.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "152320",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "151927",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "151472",
+    "package": "config",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "151144",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "150509",
+    "package": "data.table",
+    "package_version": "1.11.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "150425",
+    "package": "rcmdcheck",
+    "package_version": "1.3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "150271",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "150043",
+    "package": "tibble",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "149970",
+    "package": "memoise",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "149869",
+    "package": "markdown",
+    "package_version": "0.9",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "149799",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "149602",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "149406",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "148968",
+    "package": "sp",
+    "package_version": "1.3-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "148869",
+    "package": "purrr",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "148235",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "148178",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "148131",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "147922",
+    "package": "car",
+    "package_version": "3.0-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "147785",
+    "package": "tinytex",
+    "package_version": "0.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "147745",
+    "package": "rstudioapi",
+    "package_version": "0.9.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "147688",
+    "package": "viridis",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "147634",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "146999",
+    "package": "png",
+    "package_version": "0.1-7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "146637",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "146387",
+    "package": "data.table",
+    "package_version": "1.11.8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "146320",
+    "package": "ggplot2",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "146129",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "146011",
+    "package": "curl",
+    "package_version": "3.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "145805",
+    "package": "pkgconfig",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "145780",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "144973",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "144645",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "144524",
+    "package": "munsell",
+    "package_version": "0.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "144270",
+    "package": "modeltools",
+    "package_version": "0.2-22",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "144095",
+    "package": "fansi",
+    "package_version": "0.4.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "143807",
+    "package": "neat",
+    "package_version": "1.1.3",
+    "r_arch": "NA",
+    "r_os": "NA",
+    "r_version": "NA"
+  },
+  {
+    "download_count": "143548",
+    "package": "abind",
+    "package_version": "1.4-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "143107",
+    "package": "R6",
+    "package_version": "2.3.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "143050",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "142939",
+    "package": "clipr",
+    "package_version": "0.4.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "142912",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "142415",
+    "package": "haven",
+    "package_version": "2.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141900",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141613",
+    "package": "processx",
+    "package_version": "3.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141441",
+    "package": "urca",
+    "package_version": "1.3-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141313",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141236",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "141177",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "141104",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "140944",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "140936",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "140918",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "140861",
+    "package": "gplots",
+    "package_version": "3.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "140789",
+    "package": "rmarkdown",
+    "package_version": "1.11",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "140133",
+    "package": "evaluate",
+    "package_version": "0.10.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "139826",
+    "package": "blob",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "139531",
+    "package": "fansi",
+    "package_version": "0.4.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "139399",
+    "package": "selectr",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "139326",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "139267",
+    "package": "utf8",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "139240",
+    "package": "openssl",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "139043",
+    "package": "digest",
+    "package_version": "0.6.18",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "138980",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "138946",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "138824",
+    "package": "R6",
+    "package_version": "2.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "138790",
+    "package": "dplyr",
+    "package_version": "0.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "138643",
+    "package": "rstudioapi",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "138192",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "138096",
+    "package": "devtools",
+    "package_version": "1.13.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "137915",
+    "package": "fs",
+    "package_version": "1.2.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "137908",
+    "package": "pillar",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "137844",
+    "package": "nloptr",
+    "package_version": "1.0.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "137672",
+    "package": "ggplot2",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "137438",
+    "package": "broom",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "137277",
+    "package": "caTools",
+    "package_version": "1.17.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "136712",
+    "package": "RcppArmadillo",
+    "package_version": "0.9.100.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "136708",
+    "package": "askpass",
+    "package_version": "1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "136624",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "136505",
+    "package": "lmtest",
+    "package_version": "0.9-36",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "136337",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "136065",
+    "package": "randomForest",
+    "package_version": "4.6-14",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "135743",
+    "package": "munsell",
+    "package_version": "0.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "135607",
+    "package": "digest",
+    "package_version": "0.6.18",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "135455",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "135451",
+    "package": "evaluate",
+    "package_version": "0.12",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "135448",
+    "package": "abind",
+    "package_version": "1.4-5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "134799",
+    "package": "dbplyr",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "134606",
+    "package": "multcomp",
+    "package_version": "1.4-8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "134110",
+    "package": "ps",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "133460",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "133037",
+    "package": "rJava",
+    "package_version": "0.9-10",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "132709",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "132566",
+    "package": "markdown",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "131968",
+    "package": "scales",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "131839",
+    "package": "digest",
+    "package_version": "0.6.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "131798",
+    "package": "backports",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "131772",
+    "package": "pillar",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "131738",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "131738",
+    "package": "crosstalk",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "131608",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "131377",
+    "package": "BH",
+    "package_version": "1.69.0-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "131337",
+    "package": "DBI",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "131197",
+    "package": "tidyselect",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "131115",
+    "package": "psych",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "131097",
+    "package": "lme4",
+    "package_version": "1.1-19",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "130729",
+    "package": "readxl",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "130653",
+    "package": "R6",
+    "package_version": "2.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "130575",
+    "package": "robustbase",
+    "package_version": "0.93-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "130168",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "129962",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "129755",
+    "package": "mnormt",
+    "package_version": "1.5-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "129735",
+    "package": "mime",
+    "package_version": "0.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "129538",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "129482",
+    "package": "rmarkdown",
+    "package_version": "1.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "129210",
+    "package": "rmarkdown",
+    "package_version": "1.10",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "128689",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "128164",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "127960",
+    "package": "httr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "127826",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "127772",
+    "package": "rlang",
+    "package_version": "0.3.0.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "127471",
+    "package": "usethis",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "127379",
+    "package": "dichromat",
+    "package_version": "2.0-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "127128",
+    "package": "generics",
+    "package_version": "0.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "126633",
+    "package": "rmarkdown",
+    "package_version": "1.11",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "126187",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "125894",
+    "package": "RcppEigen",
+    "package_version": "0.3.3.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "125851",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "125780",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "125674",
+    "package": "progress",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "125452",
+    "package": "readxl",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "125006",
+    "package": "sys",
+    "package_version": "2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "124934",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "124933",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "124864",
+    "package": "gh",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "124811",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "124722",
+    "package": "fracdiff",
+    "package_version": "1.4-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "124588",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "124446",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "124432",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "124352",
+    "package": "rlang",
+    "package_version": "0.3.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "124176",
+    "package": "mnormt",
+    "package_version": "1.5-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "124049",
+    "package": "data.table",
+    "package_version": "1.12.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "124010",
+    "package": "praise",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "123847",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "123800",
+    "package": "zoo",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "123696",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "123422",
+    "package": "pillar",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "122835",
+    "package": "minqa",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "122427",
+    "package": "xtable",
+    "package_version": "1.8-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "122422",
+    "package": "quantmod",
+    "package_version": "0.4-13",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "122329",
+    "package": "usethis",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "122130",
+    "package": "httpuv",
+    "package_version": "1.4.5.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "122101",
+    "package": "withr",
+    "package_version": "2.1.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "122090",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "121931",
+    "package": "stringr",
+    "package_version": "1.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "121432",
+    "package": "RcppRoll",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "121426",
+    "package": "pbkrtest",
+    "package_version": "0.4-7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "121262",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "121262",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "121245",
+    "package": "rlang",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "121140",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "121138",
+    "package": "TH.data",
+    "package_version": "1.0-9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "121085",
+    "package": "processx",
+    "package_version": "3.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "121022",
+    "package": "prodlim",
+    "package_version": "2018.04.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "121004",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "120958",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "120956",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "120907",
+    "package": "cli",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "120682",
+    "package": "pillar",
+    "package_version": "1.2.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "120586",
+    "package": "SparseM",
+    "package_version": "1.77",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "120520",
+    "package": "WGCNA",
+    "package_version": "1.66",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "120322",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "119513",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "119386",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "NA",
+    "r_os": "NA",
+    "r_version": "NA"
+  },
+  {
+    "download_count": "119284",
+    "package": "backports",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "119283",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "119238",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "119125",
+    "package": "highr",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "118963",
+    "package": "generics",
+    "package_version": "0.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "118657",
+    "package": "Formula",
+    "package_version": "1.2-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "118522",
+    "package": "WGCNA",
+    "package_version": "1.66",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "118514",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "117923",
+    "package": "Rcpp",
+    "package_version": "0.12.18",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "117917",
+    "package": "gh",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "117912",
+    "package": "base64enc",
+    "package_version": "0.1-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "117882",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "117766",
+    "package": "later",
+    "package_version": "0.7.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "117658",
+    "package": "pkgbuild",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "117339",
+    "package": "rprojroot",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "117308",
+    "package": "curl",
+    "package_version": "3.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "117031",
+    "package": "rmarkdown",
+    "package_version": "1.9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "116580",
+    "package": "xts",
+    "package_version": "0.11-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "116555",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "116547",
+    "package": "git2r",
+    "package_version": "0.24.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "116366",
+    "package": "lmtest",
+    "package_version": "0.9-36",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "116345",
+    "package": "rmarkdown",
+    "package_version": "1.10",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "116340",
+    "package": "mime",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "116265",
+    "package": "dplyr",
+    "package_version": "0.7.6",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "116010",
+    "package": "SQUAREM",
+    "package_version": "2017.10-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115957",
+    "package": "munsell",
+    "package_version": "0.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "115933",
+    "package": "rex",
+    "package_version": "1.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115860",
+    "package": "rgl",
+    "package_version": "0.99.16",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115855",
+    "package": "cellranger",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115645",
+    "package": "backports",
+    "package_version": "1.1.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115606",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "115276",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "115226",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "115223",
+    "package": "haven",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "115197",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "114923",
+    "package": "tidyselect",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "114736",
+    "package": "tibble",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "114588",
+    "package": "xts",
+    "package_version": "0.11-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "114531",
+    "package": "latticeExtra",
+    "package_version": "0.6-28",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "114452",
+    "package": "xtable",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "114442",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "114274",
+    "package": "car",
+    "package_version": "3.0-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "114228",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "114210",
+    "package": "openxlsx",
+    "package_version": "4.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "114134",
+    "package": "rvest",
+    "package_version": "0.3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "114063",
+    "package": "matrixStats",
+    "package_version": "0.54.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "114022",
+    "package": "MatrixModels",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "113970",
+    "package": "memoise",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "113763",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "113729",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "113589",
+    "package": "rematch",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "113456",
+    "package": "minqa",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "113449",
+    "package": "httpuv",
+    "package_version": "1.4.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "113381",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "113322",
+    "package": "mime",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "113300",
+    "package": "MASS",
+    "package_version": "7.3-51.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "113182",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "113114",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "112880",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "112818",
+    "package": "nloptr",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "112805",
+    "package": "desc",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "112299",
+    "package": "sourcetools",
+    "package_version": "0.1.7",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "112239",
+    "package": "zoo",
+    "package_version": "1.8-4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "112234",
+    "package": "gower",
+    "package_version": "0.1.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "112020",
+    "package": "Formula",
+    "package_version": "1.2-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "111873",
+    "package": "gtable",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "111801",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "111666",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "111504",
+    "package": "Hmisc",
+    "package_version": "4.1-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "111457",
+    "package": "glue",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "111195",
+    "package": "SparseM",
+    "package_version": "1.77",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "111017",
+    "package": "plogr",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "111003",
+    "package": "rstudioapi",
+    "package_version": "0.8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "110984",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "110936",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "110934",
+    "package": "labeling",
+    "package_version": "0.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "110853",
+    "package": "cowplot",
+    "package_version": "0.9.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "110633",
+    "package": "dplyr",
+    "package_version": "0.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "110355",
+    "package": "purrr",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "110312",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "110301",
+    "package": "evaluate",
+    "package_version": "0.10.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "110147",
+    "package": "openssl",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "110036",
+    "package": "broom",
+    "package_version": "0.4.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109939",
+    "package": "tidyr",
+    "package_version": "0.8.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "109908",
+    "package": "readr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109889",
+    "package": "glue",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109809",
+    "package": "quantmod",
+    "package_version": "0.4-13",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109725",
+    "package": "xml2",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109704",
+    "package": "leaps",
+    "package_version": "3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "109585",
+    "package": "crosstalk",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109569",
+    "package": "uroot",
+    "package_version": "2.0-9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "109476",
+    "package": "dplyr",
+    "package_version": "0.7.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109474",
+    "package": "xts",
+    "package_version": "0.11-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109303",
+    "package": "foreach",
+    "package_version": "1.4.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109240",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109163",
+    "package": "lme4",
+    "package_version": "1.1-17",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109162",
+    "package": "devtools",
+    "package_version": "1.13.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109107",
+    "package": "rJava",
+    "package_version": "0.9-10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "109046",
+    "package": "mvtnorm",
+    "package_version": "1.0-8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "109026",
+    "package": "foreach",
+    "package_version": "1.4.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "108919",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "108898",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "108857",
+    "package": "RcppEigen",
+    "package_version": "0.3.3.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "108845",
+    "package": "forge",
+    "package_version": "0.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "108806",
+    "package": "highr",
+    "package_version": "0.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "108769",
+    "package": "prettyunits",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "108658",
+    "package": "digest",
+    "package_version": "0.6.15",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "108310",
+    "package": "colorspace",
+    "package_version": "1.3-2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "108039",
+    "package": "rlang",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "107658",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "107619",
+    "package": "yaml",
+    "package_version": "2.1.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "107527",
+    "package": "selectr",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "107505",
+    "package": "broom",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "107483",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "107162",
+    "package": "testthat",
+    "package_version": "2.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "107125",
+    "package": "gridExtra",
+    "package_version": "2.3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "107017",
+    "package": "dbplyr",
+    "package_version": "1.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106996",
+    "package": "clipr",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106914",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106810",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "106776",
+    "package": "reprex",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106689",
+    "package": "zip",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106665",
+    "package": "Rcpp",
+    "package_version": "0.12.19",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106559",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "106542",
+    "package": "BH",
+    "package_version": "1.66.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "106470",
+    "package": "readxl",
+    "package_version": "1.1.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "106367",
+    "package": "rlang",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "106239",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin13.4.0",
+    "r_version": "3.3.3"
+  },
+  {
+    "download_count": "106237",
+    "package": "rpart",
+    "package_version": "4.1-13",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "106231",
+    "package": "sp",
+    "package_version": "1.3-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "106208",
+    "package": "mice",
+    "package_version": "3.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "106113",
+    "package": "rstudioapi",
+    "package_version": "0.7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "106102",
+    "package": "zoo",
+    "package_version": "1.8-4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "106061",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "105766",
+    "package": "xlsxjars",
+    "package_version": "0.6.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "105462",
+    "package": "readr",
+    "package_version": "1.1.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "105367",
+    "package": "nloptr",
+    "package_version": "1.0.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "105359",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "105302",
+    "package": "callr",
+    "package_version": "3.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "105085",
+    "package": "MatrixModels",
+    "package_version": "0.4-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "105013",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "104980",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "NA",
+    "r_os": "NA",
+    "r_version": "NA"
+  },
+  {
+    "download_count": "104938",
+    "package": "crayon",
+    "package_version": "1.3.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "104903",
+    "package": "utf8",
+    "package_version": "1.1.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "104743",
+    "package": "RcppEigen",
+    "package_version": "0.3.3.4.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "104682",
+    "package": "openssl",
+    "package_version": "1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "104614",
+    "package": "rio",
+    "package_version": "0.5.10",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "104494",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "104446",
+    "package": "haven",
+    "package_version": "2.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "104410",
+    "package": "dplyr",
+    "package_version": "0.7.8",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "104397",
+    "package": "jpeg",
+    "package_version": "0.1-8",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "104157",
+    "package": "maptools",
+    "package_version": "0.9-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "104147",
+    "package": "data.table",
+    "package_version": "1.10.4-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "104126",
+    "package": "pbkrtest",
+    "package_version": "0.4-7",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "104019",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103896",
+    "package": "BH",
+    "package_version": "1.69.0-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103777",
+    "package": "bindrcpp",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "103709",
+    "package": "remotes",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "103666",
+    "package": "corrplot",
+    "package_version": "0.84",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103405",
+    "package": "forcats",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103388",
+    "package": "lazyeval",
+    "package_version": "0.2.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "103314",
+    "package": "httpuv",
+    "package_version": "1.4.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103281",
+    "package": "coda",
+    "package_version": "0.19-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103200",
+    "package": "bitops",
+    "package_version": "1.0-6",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103194",
+    "package": "htmlwidgets",
+    "package_version": "1.3",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103131",
+    "package": "jsonlite",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103108",
+    "package": "tidyselect",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "103068",
+    "package": "DBI",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "102985",
+    "package": "RCurl",
+    "package_version": "1.95-4.11",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "102982",
+    "package": "fansi",
+    "package_version": "0.2.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "102931",
+    "package": "dichromat",
+    "package_version": "2.0-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "102905",
+    "package": "yaml",
+    "package_version": "2.1.18",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "102870",
+    "package": "caTools",
+    "package_version": "1.17.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "102793",
+    "package": "classInt",
+    "package_version": "0.2-3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "102145",
+    "package": "tidyverse",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "102059",
+    "package": "scatterplot3d",
+    "package_version": "0.3-41",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "101821",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "101738",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "101640",
+    "package": "bindr",
+    "package_version": "0.1.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "101630",
+    "package": "Hmisc",
+    "package_version": "4.1-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "101619",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "101529",
+    "package": "R.methodsS3",
+    "package_version": "1.7.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "101507",
+    "package": "Rcpp",
+    "package_version": "0.12.16",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "101381",
+    "package": "purrr",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "101287",
+    "package": "tidyselect",
+    "package_version": "0.2.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "101276",
+    "package": "rlang",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "101189",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "101185",
+    "package": "latticeExtra",
+    "package_version": "0.6-28",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "101128",
+    "package": "ps",
+    "package_version": "1.3.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "101021",
+    "package": "modelr",
+    "package_version": "0.1.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "100929",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin13.4.0",
+    "r_version": "3.3.3"
+  },
+  {
+    "download_count": "100884",
+    "package": "fpc",
+    "package_version": "2.1-11.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "100828",
+    "package": "clisymbols",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "100750",
+    "package": "httpuv",
+    "package_version": "1.4.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "100685",
+    "package": "rlang",
+    "package_version": "0.2.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "100646",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "100588",
+    "package": "glue",
+    "package_version": "1.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "100514",
+    "package": "car",
+    "package_version": "3.0-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "100513",
+    "package": "rvest",
+    "package_version": "0.3.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "100464",
+    "package": "ini",
+    "package_version": "0.3.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "100432",
+    "package": "xopen",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "100432",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "100263",
+    "package": "lubridate",
+    "package_version": "1.7.4",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "100142",
+    "package": "hms",
+    "package_version": "0.4.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "100124",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "100106",
+    "package": "Rcpp",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "99951",
+    "package": "tibble",
+    "package_version": "1.4.2",
+    "r_arch": "x86_64",
+    "r_os": "darwin13.4.0",
+    "r_version": "3.3.3"
+  },
+  {
+    "download_count": "99946",
+    "package": "psych",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "99842",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin13.4.0",
+    "r_version": "3.3.3"
+  },
+  {
+    "download_count": "99735",
+    "package": "htmlwidgets",
+    "package_version": "1.3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "99720",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "99560",
+    "package": "whisker",
+    "package_version": "0.3-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "99523",
+    "package": "numDeriv",
+    "package_version": "2016.8-1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "99478",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "99412",
+    "package": "pkgbuild",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "99406",
+    "package": "reshape2",
+    "package_version": "1.4.3",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.2"
+  },
+  {
+    "download_count": "99384",
+    "package": "RColorBrewer",
+    "package_version": "1.1-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "99328",
+    "package": "openssl",
+    "package_version": "1.2.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "99265",
+    "package": "curl",
+    "package_version": "3.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "99250",
+    "package": "acepack",
+    "package_version": "1.4.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "99127",
+    "package": "mnormt",
+    "package_version": "1.5-5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "99101",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "99017",
+    "package": "dplyr",
+    "package_version": "0.7.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "98716",
+    "package": "xtable",
+    "package_version": "1.8-3",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "98623",
+    "package": "pkgconfig",
+    "package_version": "2.0.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "98594",
+    "package": "iterators",
+    "package_version": "1.0.10",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "98580",
+    "package": "polynom",
+    "package_version": "1.3-9",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "98517",
+    "package": "pkgconfig",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "98276",
+    "package": "openNLP",
+    "package_version": "0.2-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "98177",
+    "package": "stringi",
+    "package_version": "1.1.7",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "98104",
+    "package": "manipulateWidget",
+    "package_version": "0.10.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "98083",
+    "package": "purrr",
+    "package_version": "0.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "97977",
+    "package": "munsell",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "97900",
+    "package": "colorspace",
+    "package_version": "1.4-0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "97728",
+    "package": "zoo",
+    "package_version": "1.8-1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "97728",
+    "package": "clipr",
+    "package_version": "0.4.1",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "97726",
+    "package": "broom",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "97675",
+    "package": "magrittr",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "97612",
+    "package": "assertthat",
+    "package_version": "0.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "97309",
+    "package": "caTools",
+    "package_version": "1.17.1.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "97292",
+    "package": "knitr",
+    "package_version": "1.20",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "96965",
+    "package": "stringi",
+    "package_version": "1.2.4",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "96901",
+    "package": "viridisLite",
+    "package_version": "0.3.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "96879",
+    "package": "generics",
+    "package_version": "0.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "96848",
+    "package": "stringr",
+    "package_version": "1.3.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "96680",
+    "package": "scales",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "96635",
+    "package": "formatR",
+    "package_version": "1.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "96526",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.1"
+  },
+  {
+    "download_count": "96489",
+    "package": "praise",
+    "package_version": "1.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "96470",
+    "package": "quadprog",
+    "package_version": "1.5-5",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "96120",
+    "package": "gtools",
+    "package_version": "3.8.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "96097",
+    "package": "scales",
+    "package_version": "0.5.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "96049",
+    "package": "ggplot2",
+    "package_version": "3.1.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "95910",
+    "package": "promises",
+    "package_version": "1.0.1",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "95904",
+    "package": "gdata",
+    "package_version": "2.18.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "95897",
+    "package": "plyr",
+    "package_version": "1.8.4",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "95750",
+    "package": "checkmate",
+    "package_version": "1.8.5",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "95734",
+    "package": "dplyr",
+    "package_version": "0.7.8",
+    "r_arch": "x86_64",
+    "r_os": "darwin15.6.0",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "95712",
+    "package": "pkgload",
+    "package_version": "1.0.2",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "95710",
+    "package": "mitml",
+    "package_version": "0.3-6",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "95701",
+    "package": "pls",
+    "package_version": "2.7-0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "95644",
+    "package": "webshot",
+    "package_version": "0.5.1",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.1"
+  },
+  {
+    "download_count": "95623",
+    "package": "yaml",
+    "package_version": "2.2.0",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  },
+  {
+    "download_count": "95604",
+    "package": "htmltools",
+    "package_version": "0.3.6",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.5.0"
+  },
+  {
+    "download_count": "95573",
+    "package": "remotes",
+    "package_version": "2.0.2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.5.2"
+  },
+  {
+    "download_count": "95329",
+    "package": "callr",
+    "package_version": "3.0.0",
+    "r_arch": "x86_64",
+    "r_os": "linux-gnu",
+    "r_version": "3.4.4"
+  },
+  {
+    "download_count": "95272",
+    "package": "xtable",
+    "package_version": "1.8-2",
+    "r_arch": "x86_64",
+    "r_os": "mingw32",
+    "r_version": "3.4.3"
+  }
+]
